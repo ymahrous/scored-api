@@ -1,14 +1,9 @@
-<h3>send in the body as the following mockup</h3>
+<h1>send in the body as the following mockup</h1>
 <code>
-  "highestHS": 100,
-  </br>
-  "lowestHS": 50,
-  </br>
-  "highSchool": 77,
-  </br>
-  "highestUNI": 100,
-  </br>
-  "lowestUNI": 60,
-  </br>
-  "firstUNI": 90
+  <h3>"highestHS": 100,</h3>
+  <h3>"lowestHS": 50,</h3>
+  <h3>"highSchool": 77,</h3>
+  <h3>"highestUNI": 100,</h3>
+  <h3>"lowestUNI": 60,</h3>
+  <h3>"firstUNI": 90</h3>
 </code>
